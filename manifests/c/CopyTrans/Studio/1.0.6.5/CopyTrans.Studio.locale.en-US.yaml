@@ -1,0 +1,19 @@
+# Created with komac v2.17.2
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
+
+PackageIdentifier: CopyTrans.Studio
+PackageVersion: 1.0.6.5
+PackageLocale: en-US
+Publisher: Smooth Commit Sàrl
+PublisherUrl: https://copytrans.studio/about-us/
+PublisherSupportUrl: https://copytrans.studio/support/
+PrivacyUrl: https://copytrans.studio/terms-and-privacy/
+PackageName: CopyTrans Studio
+PackageUrl: https://copytrans.studio/download/
+License: Proprietary (EULA)
+LicenseUrl: https://copytrans.studio/terms-and-privacy/
+Copyright: Copyright © 2022 - 2026 Smooth Commit Sàrl
+ShortDescription: |
+  CopyTrans Studio lets you access, back up, and manage iPhone photos directly in Windows Explorer, with WiFi support and builtin HEIC viewing.
+ManifestType: defaultLocale
+ManifestVersion: 1.28.0
